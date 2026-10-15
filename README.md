@@ -21,5 +21,6 @@ I'm pursuing an M.S. in Business & Information Systems at NJIT, with expected co
 
 - [FastAPI calculator](https://github.com/jon314159/FinalProject): an academic application with a browser interface, PostgreSQL persistence, JWT authentication, and Docker.
 - [Private Job-Search Operations System](https://jonathancapalbo.me/job-search-operations.html): a customized fork covering duplicate checks, source validation, resume verification, and application tracking. The public case study uses synthetic examples; application records and the customized repository remain private.
+- [Integer-multiplication research contribution](https://github.com/CrocSwap/integer-mult-bounds/pull/942): a merged conditional finite construction and verification package, developed with substantial OpenAI Codex assistance. The result depends on the project's stated assumptions; it is not an unconditional theorem.
 
 Professional tools include Excel, Power Automate, Microsoft 365, SharePoint, OneNote, Smartsheet, and CSG. SQL and ServiceNow examples are academic; Tableau includes coursework and the portfolio extension above.
