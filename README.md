@@ -8,12 +8,11 @@ I'm pursuing an M.S. in Business & Information Systems at NJIT, with expected co
 
 ## Reporting and systems work
 
-| Project | What to inspect | Scope |
-| --- | --- | --- |
-| [Activity Reporting: Excel and Tableau](https://jonathancapalbo.me/sales-activity-tracker.html) | Excel validation and monthly totals; Tableau outcome analysis and adjustable daily targets; browser record drilldowns | Workplace-origin Excel, rebuilt with fictional data. Tableau and React are AI-assisted portfolio extensions. |
-| [Movie Rental Database](https://jonathancapalbo.me/sql-movie-rental.html) | Oracle SQL tables, relationships, constraints, and an unreturned-copy view; separate revision and validation results | Academic final project with a separate AI-assisted portfolio extension. |
-| [NJIT Registrar ServiceNow Portal](https://jonathancapalbo.me/servicenow-njit-registrar.html) | Searchable knowledge portal, 42 articles in 12 categories, and clearer registration guidance | Academic school lab. |
-| [Power Automate Report Distribution](https://jonathancapalbo.me/report-distribution.html) | Report selection and distribution through email and Teams | Workplace initiative illustrated with fictional examples; original employer files are unavailable. |
+- [Activity Reporting: Excel and Tableau](https://jonathancapalbo.me/sales-activity-tracker.html) — Daily activity was missing from monthly totals; the Excel tracker adds validation and reconciled rollups. Workplace-origin, rebuilt with fictional data; Tableau and React are AI-assisted portfolio extensions.
+- [Power Automate Report Distribution](https://jonathancapalbo.me/report-distribution.html) — Scattered daily reports led to Power Automate flows that filtered and sent reports through email and Teams for a team of 10. Workplace initiative; the public example is fictional, with no employer files reproduced.
+- [Arcade Ticketing Modernization](https://jonathancapalbo.me/arcade-ticketing-modernization.html) — Scattered issue reports led to a hypothetical ticketing proposal with current and future process maps, ten proposed requirements, acceptance criteria, traceability, and 14 planned UAT tests. The scenario is fictional; all tests are **Not Executed**, and no software was configured. [Review the BA evidence pack](https://jonathancapalbo.me/arcade-ticketing-evidence.html).
+- [Movie Rental Database](https://jonathancapalbo.me/sql-movie-rental.html) — Separate titles, copies, and rentals in an academic Oracle SQL database, with a view of open rentals. Customer data is fictional; the AI-assisted portfolio revision is separate from the class submission.
+- [NJIT Registrar ServiceNow Portal](https://jonathancapalbo.me/servicenow-njit-registrar.html) — Make registrar guidance easier to find through an academic school-lab portal with search, 42 articles in 12 categories, and a revised registration guide. No production deployment.
 
 [Download the fictional Excel workbook](https://jonathancapalbo.me/downloads/Fictional_Sales_Activity_Tracker.xlsx) · [Download the Tableau workbook](https://jonathancapalbo.me/downloads/Activity_Outcomes_Daily_Target_Review.twbx) · [Download the academic SQL](https://jonathancapalbo.me/downloads/Movie_Rental_Database.sql)
 
